@@ -10,6 +10,7 @@ public class arrlist {
         arr.add("mani");
         arr.set(0, "jiya");
         arr.remove(4);
+        // arr.clear();
 
         System.out.println(arr);
     }
